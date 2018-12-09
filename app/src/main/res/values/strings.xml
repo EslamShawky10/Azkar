@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Azkar</string>
+    <string name="azkar">الاذكار الدينية</string>
+    <string name="about">حول التطبيق</string>
+    <string name="close">إغلاق التطبيق</string>
+    <string name="doaa">
+    اللّهمّ اجعل في قلبي نورا، وفي لساني نورا، واجعل في سمعي نورا، واجعل في بصري نورا، واجعل من خلفي نورا، ومن أمامي نورا، واجعل من فوقي نورا، ومن تحتي نورا اللّهمّ أعطني نورا
+    </string>
+
+</resources>
